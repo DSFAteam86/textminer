@@ -27,7 +27,7 @@ Find the *first* occurrence of a word or sentence in *every* page.
 
 *Example*
 
-	mine.get_chunks("cédula", left=0, right=40)
+	mine.chunks_width("cédula", left=0, right=40)
 	mine.get_data()
 	
 	output<array>:
@@ -74,7 +74,7 @@ Search in every page and  find *all* occurrences of words or sentences in an arr
 
 *Example*
 
-	mine.get_chunks_width(["cédula", "cedula", "NIT", "C.C"], left=0, right=40)
+	mine.get_chunks_in_array(["cédula", "cedula", "NIT", "C.C"], left=0, right=40)
 	
 	output<array>:
 	
@@ -113,7 +113,7 @@ In this case *word* presents every item in the array.
 	    if bool(re.search(r'\d', word)):
 	        return word  
 	        
-	data = text_miner.extract_exact(get_cc)
+	data = mine.extract_exact(get_cc)
 	print(data)
 	
 	output<array>:
