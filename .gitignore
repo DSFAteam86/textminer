@@ -1,5 +1,4 @@
 test.py
-*.ipynb
 /samples
 /images
 /__pycache__
