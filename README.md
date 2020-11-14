@@ -16,7 +16,7 @@ or
 
 > python3 extract_cc.py
 
-it will automatically read the files in the [sample folder](textminer/tree/master/sample). Which has 21 sample files
+it will automatically read the files in the [sample folder](sample). Which has 21 sample files
 
 ## General Description
 
