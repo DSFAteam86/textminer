@@ -57,7 +57,6 @@ def get_consecutives(inputString):
         currentElement = string[counter]
         isCounterInRange = counter < stringLength - 1
 
-        foundConsecutiveNumbers = len(consecutiveNumbers) > 0
         nextElement = string[counter + 1] if isCounterInRange else None
 
         if(isCounterInRange):
@@ -66,7 +65,8 @@ def get_consecutives(inputString):
         if(currentElement.isnumeric() and isNextOfTypeNumber):
             consecutiveNumbers += currentElement
 
-        elif(currentElement.isnumeric() and not isNextOfTypeNumber and not foundConsecutiveNumbers):
+        elif(currentElement.isnumeric() and not isNextOfTypeNumber):
+            consecutiveNumbers += currentElement
             break
 
         counter += 1

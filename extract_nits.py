@@ -65,14 +65,16 @@ possible_nits = run_over_list(
     nits_without_duplicates, get_possible_nits, list_name)
 
 
-df_error_nits = dataframe_from_dict(error_nits)
-df_error_nits_ungrouped = create_ungrouped_dataframe(df_error_nits, list_name)
+df_error_nits_ungrouped = dataframe_from_dict(error_nits, list_name)
+df_empty_nits_ungrouped = dataframe_from_dict(empty_nits, list_name)
+df_possible_nits_ungrouped = dataframe_from_dict(possible_nits, list_name)
 
 
-df_empty_nits = dataframe_from_dict(empty_nits)
-df_empty_nits_ungrouped = create_ungrouped_dataframe(df_empty_nits, list_name)
+print("df_error_nits_ungrouped: ")
+print(df_error_nits_ungrouped, "\n")
 
+print("df_empty_nits_ungrouped: ")
+print(df_empty_nits_ungrouped, "\n")
 
-df_possible_nits = dataframe_from_dict(possible_nits)
-df_possible_nits_ungrouped = create_ungrouped_dataframe(
-    df_possible_nits, list_name)
+print("df_possible_nits_ungrouped: ")
+print(df_possible_nits_ungrouped)

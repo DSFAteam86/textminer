@@ -1,6 +1,5 @@
 test.py
 /samples
-/images
 /__pycache__
 .ipynb_checkpoints
 *.ipynb

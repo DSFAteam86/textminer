@@ -74,15 +74,17 @@ empty_cedulas = run_over_list(trimmed_cedulas, get_empty_cedulas, list_name)
 possible_cedulas = run_over_list(
     trimmed_cedulas, get_possible_cedulas, list_name)
 
-df_error_cedulas = dataframe_from_dict(error_cedulas)
-df_error_cedulas_ungrouped = create_ungrouped_dataframe(
-    df_error_cedulas, list_name)
+df_error_cedulas_ungrouped = dataframe_from_dict(error_cedulas, list_name)
+df_empty_cedulas_ungrouped = dataframe_from_dict(empty_cedulas, list_name)
+df_possible_cedulas_ungrouped = dataframe_from_dict(
+    possible_cedulas, list_name)
 
 
-df_empty_cedulas = dataframe_from_dict(empty_cedulas)
-df_empty_cedulas_ungrouped = create_ungrouped_dataframe(
-    df_empty_cedulas, list_name)
+print("df_error_cedulas_ungrouped: ")
+print(df_error_cedulas_ungrouped, "\n")
 
-df_possible_cedulas = dataframe_from_dict(possible_cedulas)
-df_possible_cedulas_ungrouped = create_ungrouped_dataframe(
-    df_possible_cedulas, list_name)
+print("df_empty_cedulas_ungrouped: ")
+print(df_empty_cedulas_ungrouped, "\n")
+
+print("df_possible_cedulas_ungrouped: ")
+print(df_possible_cedulas_ungrouped, "\n")

@@ -14,7 +14,13 @@ def create_ungrouped_dataframe(df, lst_col):
     return r
 
 
-def dataframe_from_dict(df_name):
-    df_type_name = pd.DataFrame.from_dict(df_name)
-    df_type_name["uid"] = remove_unwanted_chars(df_type_name["uid"], ".txt")
-    return df_type_name
+def dataframe_from_dict(dict_data, list_name):
+    if(len(dict_data) > 0):
+        df_type_name = pd.DataFrame.from_dict(dict_data)
+        df_type_name["uid"] = remove_unwanted_chars(
+            df_type_name["uid"], ".txt")
+
+        df = create_ungrouped_dataframe(df_type_name, list_name)
+        return df
+    else:
+        return "Empty DataFrame (no occurrences were found)"

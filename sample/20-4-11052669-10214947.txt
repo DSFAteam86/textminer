@@ -1,0 +1,951 @@
+NIT. 802.021.209-1 
+
+CONTRATO DE PRESTACIÓN DE SERVICIOS No. 247 DE 2020 
+
+Entre los suscritos a saber FERNANDO ISAZA GUTIERREZ DE PIÑERES, identificado con 
+
+cédula de ciudadanía número 72.136.829, actuando en nombre y representación legal de 
+
+TRANSMETRO S.A.S., identificada con NIT No. 802.021.209-1, quien para los efectos del 
+
+presente contrato se denominará TRANSMETRO S.A.S. o Entidad Estatal CONTRATANTE, por 
+
+una parte; y por la otra, la sociedad PC COM S.A.S. identificada con NIT No. 830.044.858-2 
+
+representada legalmente por la señora MARTHA PENAGOS MONTOYA identificada con la 
+
+cédula de ciudadanía No. 52.084.587,  que para los efectos del presente contrato se denominará 
+
+EL CONTRATISTA, hemos convenido en celebrar el presente contrato prev ias las siguientes 
+
+consideraciones: (I)  Que la necesidad a satisfacer por parte de la Entidad Estatal contratante es 
+
+la de contar con herramientas tecnológicas como equipos o software que sirvan de soporte para 
+
+el desarrollo adecuado de las activ idades de las d iferentes dependencias y funcionarios de la 
+
+entidad. (II) Que Transmetro S.A.S. a través de la Subgerencia Administrativa desarrolló los 
+
+respectivos estudios y documentos prev ios. (III) Que la modalidad de selección de contratación 
+
+por inv itación d irecta procede para la celebración de contratos prestación de apoyo a la gestión. 
+
+(IV) Que e l Proceso de Contratación se encuentra inclu ido en el P lan Anual de Adquisiciones. 
+
+Por lo anterior, las partes celebran e l presente contrato, el cual se regirá por las siguientes 
+
+cláusulas: Cláusula 1. Definiciones. Las expresiones utilizadas en el presente Contrato con 
+
+mayúscula inicial deben ser entendidas con el significado que se asigna a continuación. Los 
+
+términos definidos son utilizados en singular y en plural de acuerdo con el contexto en el cual son 
+
+utilizados. Otros términos utilizados con mayúscula inicial deben ser entendidos de acuerdo al 
+
+significado establecido en los estudios y documentos prev ios. Los términos no definidos en los 
+
+documentos referenciados o en la presente cláusula, deben entenderse de acuerdo con su 
+
+significado natural y obvio.  
+
+DEFINICIONES 
+
+Contrato 
+
+Es el presente acuerdo de voluntades 
+
+Entidad Estatal Contratante 
+
+Entidad Estatal que requiere los servicios profesionales y/o de 
+
+apoyo a la gestión objeto de este contrato 
+
+Contratista 
+
+Persona jurídica que presta los servicios de apoyo a la gestión 
+
+objeto del contrato 
+
+Cláusula 2. Objeto del Contrato. E l objeto a contratar es la prestación del serv icio de alquiler 
+
+de equipos de cómputo y TI con sus respectivas  licencias de sistema operativo, software de 
+
+ofimática, incluyendo los repuestos (disco duro, memorias, periféricos, etc.), el serv icio de 
+
+soporte técnico de los mismos y todas las activ idades indispensables, inherentes y accesorias a 
+
+dicho objeto. Parágrafo primero: Los siguientes documentos del Proceso forman parte del 
+
+presente Contrato y definen igualmente las activ idades, alcance y obligaciones del Contrato: (I) 
+
+Estudio prev io. (II) Oferta del Contratista (III) CDP No. 743 del 10 de agosto de 2020. (IV) Registro 
+
+Presupuestal. Parágrafo segundo: Además de 
+
+lo prev isto en el presente documento, EL 
+
+CONTRATISTA ejecutará el objeto del contrato en los términos y condiciones previstas en los 
+
+estudios prev ios y en su oferta. Cláusula 3. Actividades específicas del Contrato. Las 
+
+activ idades específicas a desarrollar en la prestación de serv icios son las siguientes: a) Prov isión 
+
+de equipos en calidad de alquiler. Se incluye el suministro y los serv icios de Instalación y 
+
+configuración; b) Suministro del equipo debidamente licenciado para uso corporativo en su sistema 
+
+operativo y aplicativo de office en sus versiones más recientes; c) Suministro de soporte técnico 
+
+en sitio. En caso de ser requerido se debe proveer el serv icio de una persona técnica en sitio en 
+
+Carrera 57 No. 99A – 65 Piso 15 
+
+Edif. Torres del Atlántico – Torre Sur – Pbx: (57 5) 3100020 
+
+www.transmetro.gov.co – Barranquilla - Colombia 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+|**|
+
+NIT. 802.021.209-1 
+
+horario de 8 a.m. a 5 p.m. El técnico en sitio debe desempeñar las siguientes funciones: Gestionar 
+
+el soporte preventivo y correctivo de todos los equipos que formen parte de la solución (Equipos 
+
+de cómputo, serv idor, cualquier otro asociado al serv icio) en coord inación con el área de sistemas; 
+
+d) Entrega en sitio del suministro de consumibles y repuestos que requiera la operac ión; e) Se 
+
+podrá solicitar el cambio de los equipos por otros con una configuración superior, o la actualización 
+
+tecnológica de algún componente, cuando Transmetro lo considere conveniente; f) Prestar los 
+
+serv icios de soporte y asistencia técnica oportuna a los problemas operativos y de funcionamiento 
+
+que presenten los equipos que sean entregados a Transmetro S.A.S.; g) Los equipos deben estar 
+
+en excelentes condiciones técnicas; h) Entregar los equipos con Software debidamente licenciado 
+
+y certificado por Microsoft (Windows, Office, etc); i) Los computadores deben ser corporativos 
+
+especiales para trabajo en empresas, no son computadores de consumo; j) El costo máximo para 
+
+un equipo no deben superar los ofertados en la cotización 1, de la Tabla 1. Cotizaciones de Alquiler 
+
+de Equipos; k) Se podrán requerir equipos diferentes a los ofertados, como puede ser servidores, 
+
+video beam, Switches, entre otros, equipos de TI, que sean requeridos por la entidad, por lo cual 
+
+el contratista deberá env iar una cotización formal, con el valor de alquiler del equipo para su 
+
+rev isión y posterior aprobación; l) El contratista debe suministrar los equipos solicitados por 
+
+Transmetro en un periodo no mayor a 24 horas; m) Los periféricos de los equipos deben ser de 
+
+buena calidad garantizando el adecuado funcionamiento de los equipos; n) Instalación en sitio, 
+
+soporte y mantenimiento (preventivo y correctivo) de los equipos; o) Los equipos de impresión, 
+
+video beam y demás equipos que solicite Transmetro deben soportar usuarios Windows y Mac 
+
+OS; p) Los valores de mantenimientos, repuestos, deben estar incluido dentro del valor de alquiler 
+
+del equipo, por lo cual no debe generar costos adicionales; q) El soporte y la asistencia técnica no 
+
+debe superar las cuatro (4) horas, una vez se dé a conocer el incidente; r) El contratista debe tener  
+
+equipos de respaldo (Backup) en caso de que uno de los equipos en arriendo, presente una falla 
+
+que no pueda ser solucionada dentro de las 4 horas establecidas para soporte y asistencia; s) Los 
+
+equipos deben trabajar sobre la red a través de puerto lan RJ45 y WIFI.; t) Los equipos de cómputo 
+
+deben permitir instalar las aplicaciones requeridas por la entidad, para el buen desempeño de las 
+
+funciones de los funcionarios de la entidad; u) El contratista debe contar con el stock necesario de 
+
+repuestos y equipos de acuerdo al volumen de  equipos instalados para cumplir con los niveles de 
+
+serv icio que se especifican en este documento; v) El contratista realizará todas las activ idades 
+
+necesarias para que ningún equipo instalado interrumpa su operación por falta de repuestos; w) 
+
+El contratista deberá recoger los equipos una vez Transmetro manifieste que no son requeridos; 
+
+x) Los modelos de los equipos no serán inferior al 2019, por lo que deberán entregar soporte que 
+
+evidencie el modelo de los equipos y cumplen con las características solicitadas; y) El contratista 
+
+debe llevar control y hacer entrega de informes con los mantenimientos, cambios y consumos 
+
+realizados cada periodo, con el fin de llevar un seguimiento a los equipos y evitar que se sobrepase 
+
+el valor del contrato, ya que llegado el caso de presentarse consumos adicionales a lo establecido 
+
+contractualmente estos deben ser asumidos por el contratista; y, z) En general, realizar todos 
+
+aquellos actos indispensables para adelantar las activ idades jurídicas  requeridas por la entidad 
+
+para el desarrollo del objeto contractual. Cláusula 4. Valor del contrato y forma de pago. El valor 
+
+del presente Contrato corresponde a la suma de CINCO MILLONES SETECIENTOS CINCUENTA 
+
+Y NUEVE MIL SEISCIENTOS PESOS M.L. ($5.759.600. oo), valor que incluye todos aquellos 
+
+gastos en que deba incurrir el contratista para perfeccionar y legalizar su relación con la Entidad. 
+
+TRANSMETRO S.A.S. pagará al Contratista el valor del presente Contrato con cargo al certificado 
+
+de disponibilidad presupuestal No. 743 del 10 de agosto de 2020. El presente Contrato está sujeto 
+
+Carrera 57 No. 99A – 65 Piso 15 
+
+Edif. Torres del Atlántico – Torre Sur – Pbx: (57 5) 3100020 
+
+www.transmetro.gov.co – Barranquilla - Colombia 
+
+ 
+ 
+ 
+ 
+
+
+|**|
+
+NIT. 802.021.209-1 
+
+a registro presupuestal y el pago de su valor a las apropiaciones presupuestales. Parágrafo 
+
+primero.  El valor mensual del arrendamiento de los equipos será el siguiente: 
+
+COT IZACION No 1 
+
+Equipo  
+
+Valor 
+
+Pc Escritorio procesador i3, memoria 4GB, Disco Duro 500GB, Monitor 19” 
+
+$ 110.000 + IVA 
+
+Pc Escritorio procesador i5, memoria 4GB, Disco Duro 500GB, Monitor 19” 
+
+$ 110.000 + IVA 
+
+Portátil procesador i5, memoria 8GB, Disco Duro 500GB, Monitor 19” 
+
+$ 110.000 + IVA 
+
+Portátil procesador i7, memoria 8GB, Disco Duro 500GB, Monitor 19”, Tarjeta 
+
+de video 1GB 
+
+$ 169.000 + IVA 
+
+Pc all in one procesador i3, memoria 4GB, Disco Duro 500GB, Monitor 20” 
+
+$ 120.000 + IVA 
+
+Video Beam 
+
+Licencias Office 365 business, CSP 
+
+$ 215.000 + IVA 
+
+Incluido  
+
+Parágrafo segundo. La Entidad Estatal Contratante pagará al Contratista el valor del contrato en 
+
+Mediante 
+
+la presentación de 
+
+facturación mensual, por 
+
+los valores que correspondan a 
+
+los 
+
+consumos realizados (Numero de equipos en alquiler), pagaderos dentro de los cuarenta y cinco 
+
+(45) días hábiles siguientes a la presentación de la respectiva  factura por parte del contratista, la 
+
+cual deberá ser presentada a partir del día siguiente al vencimiento del respectivo corte , una vez 
+
+Transmetro haya recibido los elementos y serv icios contratados y efectivamente entregados en 
+
+cada periodo facturado, previa certificación de recibo a satisfacción  por parte del superv isor 
+
+designado y constancia de pago de los aportes correspondientes a seguridad social, los cuales 
+
+deberán cumplir las prev isiones legales. Cláusula 5. Plazo. El plazo de ejecución del Contrato 
+
+será hasta el 31 de diciembre de 2020 o hasta agotar presupuesto (lo primero que ocurra), contado 
+
+a partir de su suscripción, prev io cumplimiento de los requisitos de perfeccionamiento y ejecución. 
+
+Cláusula 
+
+6. Declaraciones 
+
+del 
+
+contratista. EL CONTRATISTA 
+
+hace 
+
+las 
+
+siguientes 
+
+declaraciones: (I) Conoce y acepta los Documentos del Proceso. (II) Tuvo la oportunidad de 
+
+solicitar aclaraciones y modificaciones a los Documentos del Proceso y recibió TRANSMETRO 
+
+S.A.S. respuesta oportuna a cada una de las solicitudes. (III) Se encuentra debidamente facultado 
+
+para suscribir el presente contrato. (IV) El Contratista al momento de la celebración del presente 
+
+contrato no se encuentra en ninguna causal de inhabilidad e incompatibilidad. (V) Está a paz y 
+
+salvo con sus obligaciones frente al sistema de seguridad social integral. (VI) El valor del contrato 
+
+incluye 
+
+todos 
+
+los gastos, costos, derechos, pólizas requeridas, 
+
+impuestos, 
+
+tasas y demás 
+
+contribuciones relacionados con el cumplimiento del objeto del presente contrato. Cláusula 7. 
+
+Derechos del Contratista. (I) Recibir la remuneración pactada en los términos de la Cláusula 4 
+
+del presente contrato. (II) Recibir de parte de la entidad contratante la información necesaria, 
+
+completa y oportuna para desarrollar el objeto del contrato. Cláusula 8. Obligaciones del 
+
+Contratista. (I) Desarrollar y cumplir el objeto del Contrato, en las condiciones de calidad, 
+
+oportunidad, y obligaciones definidas en el presente Contrato. (II) Responder por todos y cada uno 
+
+de los insumos, suministros, herramientas, dotación, implementación, inventarios y/o materiales 
+
+que le sean puestos a su disposición para la prestación de servicios realizados, por lo que los 
+
+mismos quedarán a cargo del coordinador, administrador o contratista y este responderá con ellos, 
+
+autorizando que el valor del mismo sea descontado automáticamente de los honorarios pactados 
+
+en caso de pérdida o extravío injustificado, de acuerdo con el deber de cuidado y diligencia inmerso 
+
+en el contrato. Una vez terminado el contrato, el contratista deberá efectuar la devolución de los 
+
+Carrera 57 No. 99A – 65 Piso 15 
+
+Edif. Torres del Atlántico – Torre Sur – Pbx: (57 5) 3100020 
+
+www.transmetro.gov.co – Barranquilla - Colombia 
+
+ 
+ 
+ 
+ 
+ 
+
+
+|**|
+
+NIT. 802.021.209-1 
+
+bienes entregados para el desarrollo del objeto contractual, para lo cual se suscribirá un acta de 
+
+recibo a satisfacción con el superv isor del contrato. (III) Obrar con lealtad y buena fe en el desarrollo 
+
+del contrato, ev itando dilaciones innecesarias. (IV) Acreditar que se encuentra al día en el pago de 
+
+aportes relativos al Sistema de Seguridad Social Integral (Salud, Pensión y ARL), así como los 
+
+propios del Sena, ICBF y Cajas de Compensación Familiar, cuando corresponda. El cumplimiento 
+
+de esta obligación deberá acreditarse para la realización de cada pago derivado del contrato. El 
+
+no pago de los aportes al Sistema de Seguridad Social Integral de acuerdo con los plazos 
+
+establecidos en el Decreto 1990 de 2016, constituye causal de incumplimiento por parte de l 
+
+contratista. Acreditar el pago al sistema de Seguridad Social Integral y parafiscales (cuando 
+
+hubiere lugar a estos últimos). Durante la ejecución del contrato debe permanecer afiliado y a paz 
+
+y salvo con los sistemas de salud, pensión y ARL. (V) Realizar y responder por el pago de los 
+
+tributos que se causen o llegaren a causar por la celebración, ejecución y liquidación del contrato. 
+
+(VI) Presentar las respectivas facturas, cuenta de cobro o su documento equivalente, de acuerdo 
+
+con el régimen tributario aplicable al objeto contratado junto con el informe de activ idades 
+
+realizadas en el respectivo periodo. Es obligación de EL CONTRATISTA conocer y presupuestar 
+
+todos los gravámenes de los cuales es responsable al momento de celebrar el contrato. (VII) 
+
+Sostener los precios ofertados, los que en todo caso deben estar acordes con los precios del 
+
+mercado. (VIII) No ceder el presente contrato sin el consentimiento y aprobación previa y expresa 
+
+de Transmetro S.A.S. (IX) Mantener un comportamiento de respeto y tolerancia para con los 
+
+funcionarios de la entidad, contratistas y todas las personas que deba tratar con ocasión del 
+
+desarrollo del objeto contractual.; y (X) Las demás que se deriven del objeto contractual. Cláusula 
+
+9. Derechos de la Entidad Estatal contratante. (I) Exigir a EL CONTRATISTA la ejecución 
+
+idónea y oportuna del objeto contratado, así como la información que considere necesaria para el 
+
+desarrollo del mismo. (II) Hacer uso de las cláusulas excepcionales del contrato y de  cualquier 
+
+otro derecho consagrado a la Entidad Estatal contratante de manera legal o contractual. Cláusula 
+
+10. Obligaciones Generales de la Entidad Estatal contratante. Además de las obligaciones que 
+
+se derivan por la naturaleza del presente contrato, constituyen obligaciones de TRASMETRO 
+
+S.A.S.: (I) Ejercer el respectivo control en el cumplimiento del objeto del contrato y expedir el recibo 
+
+de cumplimiento a satisfacción. (II) Suministrar información necesaria, completa y oportuna para 
+
+desarrollar el objeto del contrato. (III) Sin perjuicio de la autonomía técnica y administrativa de EL 
+
+CONTRATISTA, 
+
+la entidad orientará a EL CONTRATISTA en sus actuaciones para el 
+
+cumplimiento de los objetivos que debe perseguir. (IV) Dar respuesta oportuna a las solicitudes de 
+
+EL CONTRATISTA, definir las situaciones necesarias para la ejecución y adelantar los trámites a 
+
+que haya lugar por su parte para garantizar la debida ejecución. (V) Pagar el valor del contrato de 
+
+acuerdo con los términos establecidos. (VI) Prestar su colaboración para el cumplimiento de las 
+
+obligaciones de El Contratista. 
+
+(VII) Adelantar 
+
+las acciones conducentes a obtener 
+
+las 
+
+indemnizaciones por los daños que sufra la entidad en desarrollo o con ocasión del contrato. (VIII) 
+
+Requerir a EL CONTRATISTA para que adopte las medidas pertinentes cuando surjan faltas en el 
+
+cumplimiento del contrato; (IX) Efectuar la superv isión y seguimiento del contrato; y (X) Todas 
+
+aquellas que de acuerdo a la naturaleza del contrato establezca la ley. Cláusula 11. Garantías y 
+
+Mecanismos de cobertura del riesgo: EL CONTRATISTA se compromete a constitu ir a favor 
+
+de TRANSMETRO S.A.S, dentro de los cinco (5) días siguientes a la firma del presente contrato 
+
+y ante una compañía de seguros legalmente establecida en el país una garantía única de 
+
+cumplimiento la cual debe cubrir : (i) Cumplimiento: Por una cuantía equivalente al 10% del valor 
+
+del contrato, y con una v igencia igual al plazo de ejecución del contrato y seis (6) meses más,  
+
+Carrera 57 No. 99A – 65 Piso 15 
+
+Edif. Torres del Atlántico – Torre Sur – Pbx: (57 5) 3100020 
+
+www.transmetro.gov.co – Barranquilla - Colombia 
+
+ 
+ 
+ 
+ 
+
+
+|**|
+
+NIT. 802.021.209-1 
+
+para amparar a la entidad de las obligaciones surgidas del contrato estatal inc luyendo en ellas 
+
+el pago de multas y cláusula penal pecuniaria, cuando se hayan pactado en el contrato. El 
+
+amparo de cumplimiento del contrato cubrirá a la Entidad Estatal contratante de los perjuicios 
+
+directos derivados del incumplimiento total o parcia l de las obligaciones nacidas del co ntrato, así 
+
+como de su cumplimiento tardío o de su cumplimiento defectuoso, cuando ellos son imputables 
+
+al 
+
+contratista 
+
+garantizado. 
+
+(ii) Pago de 
+
+salarios, prestaciones 
+
+sociales 
+
+legales 
+
+e 
+
+indemnizaciones laborales: Por una cuantía equivalente al 10% del valor del presupuesto de 
+
+este contrato, y con una v igencia igual al plazo de ejecución y tres (3) años más, para cubrir a la 
+
+Entidad de los perjuicios que se le ocasionen como consecuencia del incumplimiento de las 
+
+obligaciones laborales a que esté obligado e l contratista garantizado, derivadas de la contratación 
+
+del personal utilizado para la ejecución del contrato amparado en el territorio nacional. (iii) Calidad 
+
+de bienes y servicios: Por una cuantía equivalente al 10% del valor del contrato y con una 
+
+v igencia igual a l p lazo de ejecución del contrato y seis (6) meses más, amparando a Transmetro 
+
+por la defic iente calidad del serv icio prestado. Cláusula 12. Supervisión. TRANSMETRO S.A.S. 
+
+ejercerá la supervisión del contrato a través de la Subgerencia Administrativa de la entidad. Serán 
+
+funciones del superv isor entre otras, velar por el desempeño de El Contratista, recibir y aprobar 
+
+todos los informes y ejecutar las demás activ idades que le sean propias. En consecuencia, 
+
+desarrollará entre otras las siguientes activ idades:1) Velar y verificar que EL CONTRATISTA 
+
+cumpla con el objeto del contrato y de las obligaciones por él contraídas; 2) Informar respecto a 
+
+las demoras o 
+
+incumplimiento de 
+
+las obligaciones de EL CONTRATISTA; 3) Realizar un 
+
+seguimiento permanente a 
+
+la ejecución del contrato; 4) Recepcionar 
+
+la correspondencia 
+
+presentada por el CONTRATISTA y hacer las observaciones que estime convenientes; 5) Requerir 
+
+a EL CONTRATISTA sobre el  cumplimiento y  obligaciones  en  los  términos  estipulados  en  el 
+
+presente documento; 6) Aprobar o improbar los informes que presente EL CONTRATISTA en 
+
+ejecución del contrato. Así mismo, podrá solicitar los informes a que haya lugar; 7) Certificar 
+
+respecto al cumplimiento a satisfacción del objeto contractual por par te de EL CONTRATISTA, 
+
+cuando haya lugar a ello, y al momento de liquidar el contrato. Dicha certificación se constituye en 
+
+requisito prev io para cada uno de los pagos que deba realizar EL CONTRATANTE; 8) Solicitar la 
+
+suscripción de contratos adicionales o modificatorios, suspensiones y demás, prev ia la debida y 
+
+detallada sustentación; 9) En caso de presentarse situaciones que requieran conceptos jurídicos 
+
+especializados, de los cuales no tenga el suficiente conocimiento, así lo hará saber, con miras a 
+
+lograr la mejor decisión para las partes; 10) Verificar que EL CONTRATISTA cumpla con lo 
+
+indicado en su propuesta, con la calidad del objeto contractual; 11) Estudiar las situaciones 
+
+particulares e imprevistas que se presenten en desarrollo del contrato, concep tuar sobre su 
+
+desarrollo general y los requerimientos para su mejor ejecución, manteniendo siempre el equilibrio  
+
+contractual;  y,  12)  Todas  aquellas  a  que  haya  lugar,  para  la  correcta  ejecución  del  contrato, 
+
+y que  no  se encuentren expresamente descritas en esta cláusula. Parágrafo: El Gerente de 
+
+Transmetro S.A.S. podrá en cualquier momento cambiar el funcionario que ejerza la superv isión, 
+
+sin que sea necesario modificar el contrato. Cláusula 13. Responsabilidad. EL CONTRATISTA 
+
+es responsable por el cumplimiento del objeto establecido en la cláusula 2 del presente Contrato. 
+
+EL CONTRATISTA será responsable por los daños o perjuicios que ocasione a Transmetro S.A.S. 
+
+y/o a terceros que se deriven de sus actuaciones o de las de sus subcontratistas o dependientes 
+
+(si fueren autorizados) en la ejecución del objeto del presente Contrato. Cláusula 14. Propiedad 
+
+Intelectual. Si de 
+
+la ejecución del presente contrato 
+
+resultan estudios, 
+
+investigaciones, 
+
+descubrimientos, invenciones, información, mejoras y/o diseños, éstos pertenecen a la Entidad 
+
+Carrera 57 No. 99A – 65 Piso 15 
+
+Edif. Torres del Atlántico – Torre Sur – Pbx: (57 5) 3100020 
+
+www.transmetro.gov.co – Barranquilla - Colombia 
+
+ 
+ 
+ 
+ 
+
+
+|**|
+
+NIT. 802.021.209-1 
+
+Estatal contratante de conformidad con lo establecido en el Artículo 20 de la Ley 23 de 1982. Todo 
+
+escrito, trabajo o material elaborado y preparado por EL CONTRATISTA para TRANSMETRO 
+
+S.A.S. en relación con el objeto del presente contrato, podrá ser utilizado, reproducido y distribuido 
+
+por  TRANSMETRO S.A.S. con el fin de ser utilizado como referencia para elaborar otros trabajos, 
+
+en otros casos similares o simplemente para ser consultado en el giro ordinario de los negocios 
+
+de TRANSMETRO S.A.S. EL CONTRATISTA deberá suministrar a TRANSMETRO S.A.S. una 
+
+copia de cualquier documento que elabore en desarrollo del objeto del presente contrato y que sea 
+
+relevante para el resultado de los procesos atendidos. A juicio de LA CONTRATANTE, EL 
+
+CONTRATISTA suministrará 
+
+la copia del documento de manera 
+
+impresa, por 
+
+transmisión 
+
+electrónica o a través de CD, USB, según requerimiento de la entidad y/o del superv isor del 
+
+contrato. En ejercicio de estos derechos patrimoniales, TRANSMETRO S.A.S. podrá modificar, 
+
+adaptar, editar, borrar, titular, modificar el título, subtitular, transformar, comunicar, distribuir y en 
+
+general realizar todo acto de disposición sobre dichos escritos, obras, documentos, planos, etc. 
+
+Así mismo, el Contratista garantiza que los trabajos y serv icios prestados a la Entidad Estatal 
+
+contratante por el objeto de este contrato no infringen ni vulneran los derechos de propiedad 
+
+intelectual o industrial o cualesquiera otros derechos legales o contractuales de terceros. Cláusula 
+
+15. Confidencialidad. En caso de que exista información sujeta a reserva legal, las partes deben 
+
+mantener la confidencialidad de esta información. Para ello, la parte interesada debe comunicar a 
+
+la otra parte que la información suministrada tiene el carácter de confidencial. Confidencialidad o 
+
+reserva que permanecerá v igente aún después de la terminación del contrato por un periodo de 
+
+por lo menos cinco (5). En caso de incumplimiento a esta obligación el contratista indemnizará los 
+
+perjuicios que tal hecho cause a La entidad contratante. Cláusula 16. Terminación, modificación 
+
+e interpretación unilateral del Contrato. TRANSMETRO S.A.S. puede terminar, modificar y/o 
+
+interpretar unilateralmente el Contrato, de acuerdo con los artículos 15 a 17 de la Ley 80 de 1993, 
+
+cuando lo considere necesario para que el Contratista cumpla con el objeto del presente Contrato. 
+
+Cláusula 17. Caducidad. TRANSMETRO S.A.S. estará facultada a declarar la caducidad cuando 
+
+exista un incumplimiento del contrato por parte del Contratista en la forma y de acuerdo con el 
+
+procedimiento prev isto por 
+
+la 
+
+ley. Cláusula 18. Multas. En caso de 
+
+incumplimiento a 
+
+las 
+
+obligaciones del Contratista derivadas del presente Contrato, TRANSMETRO S.A.S. puede 
+
+adelantar el procedimiento establecido en la ley e imponer las siguientes multas.  En caso de que 
+
+EL CONTRATISTA incurra en incumplimiento de las obligaciones que asume en virtud de este 
+
+contrato, salvo fuerza mayor o caso fortuito, se causarán multas del 0.1% (Cero punto uno por 
+
+ciento) del valor del contrato por cada día de retardo en el cumplimiento de una o varia de sus 
+
+obligaciones contractuales, sin exceder el diez por ciento (10%) del valor total del contrato, y sin 
+
+perjuicio de que 
+
+la entidad contratante pueda hacer efectiva 
+
+la sanción pecuniaria por 
+
+incumplimiento o declarar la caducidad del contrato. EL CONTRATISTA autoriza expresamente a 
+
+TRANSMETRO S.A.S., para deducir directamente el valor de las multas causadas de cualquier 
+
+suma que se adeude al CONTRATISTA por razón de este contrato. La suma de los valores por 
+
+multas causadas en desarrollo del presente contrato no podrá exceder el diez por ciento (10%) del 
+
+valor del contrato. Cláusula 19. Cláusula Penal. En caso de declaratoria de caducidad o de 
+
+incumplimiento total o parcial de las obligaciones del presente Contrato, EL CONTRATISTA debe 
+
+pagar a TRANSMETRO S.A.S., a título de indemnización anticipada de los perjuicios ocasionados 
+
+con el incumplimiento, una suma equivalente al diez por ciento (10%) del valor del contrato.  El 
+
+valor pactado de la presente cláusula penal es el de la estimación anticipada de perjuicios, no 
+
+obstante, la presente cláusula no impide el cobro de todos los perjuicios adicionales que se causen 
+
+Carrera 57 No. 99A – 65 Piso 15 
+
+Edif. Torres del Atlántico – Torre Sur – Pbx: (57 5) 3100020 
+
+www.transmetro.gov.co – Barranquilla - Colombia 
+
+ 
+ 
+ 
+ 
+
+
+|**|
+
+NIT. 802.021.209-1 
+
+sobre el citado valor. Este valor puede ser compensado con los montos TRANSMETRO S.A.S. 
+
+adeude al Contratista con ocasión de la ejecución del presente Contrato, de conformidad con las 
+
+reglas del Código Civ il. Cláusula 20. Declaratoria de incumplimiento. En caso de presentarse 
+
+un posible incumplim iento por parte del contratista, Transmetro S.A.S. tiene la facultad de declarar 
+
+el incumplimiento aplicando el procedimiento establecido en el artículo 86 de la Ley 1474 de 2011, 
+
+lo anterior con el fin de garantizar el derecho al debido proceso y de defensa a EL CONTRATISTA. 
+
+Cláusula 21. Exclusión de la relación laboral: Puesto que EL CONTRATISTA ejecutará el objeto 
+
+de este contrato con plena autonomía técnica y administrativa, queda entendido que no existe 
+
+vinculación 
+
+laboral alguna entre LA CONTRATANTE y EL CONTRATISTA. Cláusula 22. 
+
+Independencia del Contratista. EL CONTRATISTA es una entidad 
+
+independiente de 
+
+TRANSMETRO S.A.S. y en consecuencia, el Contratista no es su representante, agente o 
+
+mandatario, ni tiene la facultad de hacer declaraciones, representaciones o compromisos en 
+
+nombre de Transmetro, ni de tomar decisiones o iniciar acciones que generen obligaciones a su 
+
+cargo. Cláusula 23. Cesión. EL CONTRATISTA no puede ceder parcial ni totalmente sus 
+
+obligaciones o derechos derivados del presente Contrato sin la autorización prev ia y por escrito de 
+
+TRANSMETRO S.A.S. Si el Contratista es objeto de fusión, escisión o cambio de control, 
+
+TRANSMETRO S.A.S. está 
+
+facultado a conocer 
+
+las condiciones de esa operación. En 
+
+consecuencia, el Contratista se obliga a informar oportunamente a Transmetro de la misma y 
+
+solicitar su consentimiento. Cláusula 24. Indemnidad. EL CONTRATISTA se obliga a indemnizar 
+
+a TRANSMETRO con ocasión de la v iolación o el incumplimiento de las obligaciones prev istas en 
+
+el presente Contrato. El Contratista se obliga a mantener indemne a la Entidad Estatal contratante 
+
+de cualquier daño o perjuicio originado en reclamaciones de terceros que tengan como causa sus 
+
+actuaciones hasta por el monto del daño o perjuicio causado. El Contratista mantendrá indemne a 
+
+Transmetro por cualquier obligación de carácter laboral o relacionado que se originen en el 
+
+incumplimiento de 
+
+las obligaciones 
+
+laborales que el Contratista asume 
+
+frente al personal, 
+
+subordinados o terceros que se v inculen a la ejecución de las obligaciones derivadas del presente 
+
+Contrato. Cláusula 25. Caso Fortuito y Fuerza Mayor. Las partes quedan exoneradas de 
+
+responsabilidad por el incumplimiento de cualquiera de sus obligaciones o por la demora en la 
+
+satisfacción de cualquiera de las prestaciones a su cargo derivadas del presente Contrato, cuando 
+
+el incumplimiento sea resultado o consecuencia de la ocurrencia de un evento de fuerza mayor y 
+
+caso fortuito debidamente invocadas y constatadas de acuerdo con la ley y la jurisprudencia 
+
+colombiana. Cláusula 26. Solución de Controversias. Las controversias o diferencias que surjan 
+
+entre el Contratista y 
+
+la Entidad Estatal contratante con ocasión de 
+
+la 
+
+firma, ejecución, 
+
+interpretación, prórroga o terminación del Contrato, así como de cualquier otro asunto relacionado 
+
+con el presente Contrato, serán sometidas a la rev isión de las partes para buscar un arreglo directo, 
+
+en un término no mayor a cinco (5) días hábiles a partir de la fecha en que cualquiera de las partes 
+
+comunique por escrito a la otra la existencia de una diferencia. Las controversias que no puedan 
+
+ser resueltas de forma directa entre las partes, se resolverán ante la jurisdicción ordinaria. 
+
+Cláusula 27. Notificaciones. Los av isos, solicitudes, comunicaciones y notificaciones que las 
+
+partes deban hacer en desarrollo del presente Contrato, deben constar por escrito y se entenderán 
+
+debidamente efectuadas sólo si son entregadas personalmente o por correo electrónico a la 
+
+persona y/o a las direcciones indicadas a continuación: 
+
+TRANSMETRO S.A.S. 
+
+Nombre:  Betsy Pérez Arango 
+
+PC COM S.A. 
+
+Nombre: Martha Penagos Montoya 
+
+Carrera 57 No. 99A – 65 Piso 15 
+
+Edif. Torres del Atlántico – Torre Sur – Pbx: (57 5) 3100020 
+
+www.transmetro.gov.co – Barranquilla - Colombia 
+
+ 
+ 
+ 
+ 
+
+
+|**|
+
+NIT. 802.021.209-1 
+
+Cargo: Subgerente Administrativa 
+
+Cargo: Representante Legal 
+
+Dirección: Cra 57 No. 99ª-65 Torre Sur Piso 15 
+
+Teléfono: 3100020 
+
+Dirección: 
+
+Teléfono: 
+
+Correo electrónico: info@transmetro.gov.co 
+
+Correo electrónico: 
+
+Cláusula 28. Perfeccionamiento y ejecución. El presente 
+
+contrato 
+
+requiere para 
+
+su 
+
+perfeccionamiento de la firma de las partes. Para su ejecución requiere el registro presupuestal. 
+
+Cláusula 29 - Lugar de ejecución y domicilio contractual. Las activ idades previstas en el 
+
+presente Contrato se deben desarrollar en la ciudad de Barranquilla y el domicilio contractual es la 
+
+ciudad de Barranquilla. - Cláusula 30. Liquidación del Contrato: El presente contrato se liquidará 
+
+de mutuo acuerdo dentro de los cuatro (4) meses siguientes a la expiración del plazo contractual. 
+
+- Cláusula 31. Régimen Legal. Este contrato se regirá por el Manual de Contratación de la 
+
+empresa, los principios de la contratación y las normas administrativas, civ iles y comerciales que 
+
+le sean aplicables. 
+
+Para constancia, se firma en Barranquilla, a los catorce (14) días del mes de agosto de 2020. 
+
+EL CONTRATANTE  
+
+      EL CONTRATISTA 
+
+FERNANDO ISAZA GUTIERREZ DE PIÑERES                           MARTHA PENAGOS MONTOYA 
+
+Gerente Transmetro S.A.S 
+
+       Rep. Legal PC COM S.A.S.  
+
+Proyectó: Vera Judith Manjarrés Zambrano Prof. II - Secretaría General 
+Revisó: Miguel V. Marchena Racedo – Secretario General  
+
+Carrera 57 No. 99A – 65 Piso 15 
+
+Edif. Torres del Atlántico – Torre Sur – Pbx: (57 5) 3100020 
+
+www.transmetro.gov.co – Barranquilla - Colombia 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+            
+ 
+ 
+ 

@@ -1,1 +1,1 @@
-path = "../out"
+path = "./sample"
