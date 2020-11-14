@@ -20,7 +20,7 @@ it will automatically read the files in the [sample folder](textminer/tree/maste
 
 ## General Description
 
-### cofig
+### config
 
 The path of the .txt documents is the only value that can affect the execution of the entire process. That's way there is one variable to configure the path of the files to be read.
 
@@ -56,3 +56,13 @@ These variables can be treated like a regular DataFrame, they represent the 3 po
 ### order_frame.py
 
 Order_frame contains functions to create dataframes based on the results of the mining process. For more info read [the order_frame docs](docs/order_frame.md)
+
+## Team Members
+
+- [Diego Fernando González Larrote](https://github.com/dfgonzalezla)
+- [Erick Mora Martínez](https://github.com/egmoram-git)
+- [Giovanni Sarta Valencia](https://github.com/gsarta)
+- [Jhon Alexander Bernal Muñoz](https://github.com/LEXsB)
+- [José Andrés Flórez Guiérrez](https://github.com/jaflorezg)
+- [Jorge Iván Durango Acosta](https://github.com/duacos)
+- [Diana Ximena Sarmiento Castro](https://github.com/dxsarmiento)
